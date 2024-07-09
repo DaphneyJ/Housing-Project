@@ -9,7 +9,8 @@ The goal of this analysis is to predict the price of homes based on various feat
 Data: The Housing Prices dataset from Kaggle contains 545 observations with 13 features. These features include the median value of homes (target variable) and attributes such as average number of bedrooms, bathrooms, area square footage, etc.
 
 Skills
-- R programming 
+- R programming
+- Python
 - Linear Regression model
 - Predictive and statistical analysis 
 - Visualizations 
