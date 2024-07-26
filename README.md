@@ -1,4 +1,4 @@
-# Housing-Project
+# Housing Project
 Develop predictive models to estimate housing prices based on various influencing factors. I implemented this project in both R and in Python. 
 
 Portfolio Project: House Prices
